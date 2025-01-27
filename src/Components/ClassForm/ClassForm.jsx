@@ -18,7 +18,7 @@ const ClassForm = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log('Form Data:', formData);
-    // Handle form submission logic here
+    // Handle form submission logic herejjjjj
   };
 
   return (
